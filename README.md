@@ -38,8 +38,8 @@ TypeScript · JavaScript · React · Next.js · Tailwind · Node · Vercel · Gi
 ### 🌟 Featured Projects
 | Project | Stack | Live | Code |
 |---|---|---|---|
-| **Skinstric** — Camera + AI analysis (consent/camera overlay, upload compression, demographics, analysis grid) | Next.js, TS, Tailwind, Vercel | *(demo link)* | https://github.com/angelmonoestereo/skinstric |
-| **Record Store** — Albums search mock API | React, Node | *(demo link)* | *(repo link)* |
+| **Skinstric** — Camera + AI analysis (consent/camera overlay, upload compression, demographics, analysis grid) | Next.js, TS, Tailwind, Vercel | skinstric-two.vercel.app| https://github.com/angelmonoestereo/skinstric |
+| **Record Store** — Albums search mock API | React, Node | https://react-record-store-api.vercel.app | https://github.com/AngelMonoestereo/React-Record-Store-API.git|
 
 ### 🧩 Highlights
 - Camera flow E2E: `getUserMedia` → fullscreen overlay (tips + Take Picture + Back) → snapshot → upload (base64 with fallbacks).
@@ -47,6 +47,6 @@ TypeScript · JavaScript · React · Next.js · Tailwind · Node · Vercel · Gi
 - UI polish: animation timing, diamond layout, responsive design.
 
 ### 🤝 Connect
-- LinkedIn: *(your URL)*
+- LinkedIn: https://www.linkedin.com/in/angelmonoestereo/
 - Portfolio: *(your domain)*
-- Contact: *(your email)*
+- Contact: *angelreyes@yahoo.com*
