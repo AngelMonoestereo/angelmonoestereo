@@ -66,8 +66,11 @@ TypeScript · JavaScript · React · Next.js · Tailwind · Node · Vercel · Gi
 ### 🌟 Featured Projects
 | Project | Stack | Live | Code |
 |---|---|---|---|
-| **Skinstric** — Camera + AI analysis (consent/camera overlay, upload compression, demographics, analysis grid) | Next.js, TS, Tailwind, Vercel | https://skinstric-two.vercel.app/ | https://github.com/angelmonoestereo/skinstric |
+| **Skinstric** — Camera + AI analysis | Next.js, JS, Tailwind, Vercel | https://skinstric-two.vercel.app/ | https://github.com/angelmonoestereo/skinstric |
 | **Record Store** — Albums search mock API | React, Node | https://react-record-store-api.vercel.app | https://github.com/AngelMonoestereo/React-Record-Store-API |
+| **NFT Internship** — React landing & interactions | React, Vite, Vercel | https://angel-internship.vercel.app | https://github.com/AngelMonoestereo/angel-internship |
+| **React Movies Clone** — search & detail views | React, React Router, Vercel | https://react-movies-clone-v2.vercel.app/ | https://github.com/AngelMonoestereo/react-movies-clone-v2 |
+| **YouTube Clone** — feed & video detail | React, React Router, Vercel | https://youtube-clone-react-v5l4.vercel.app | https://github.com/AngelMonoestereo/youtube-clone-react |
 
 ### 🧩 Highlights
 - Camera flow E2E: `getUserMedia` → fullscreen overlay (tips + Take Picture + Back) → snapshot → upload (base64 with fallbacks).  
