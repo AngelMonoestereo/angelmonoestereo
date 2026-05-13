@@ -3,7 +3,8 @@
   <tr>
     <td align="left" valign="middle">
       <h1>Hey, I'm Angel Reyes 👋</h1>
-      <p><em>Frontend Engineer — React / Next.js — UI polish & product velocity</em></p>
+      <p><em>Frontend Developer — React / Next.js — Responsive UI & Production-Ready Web Apps
+</em></p>
       <p>Orlando, FL · English / Spanish</p>
     </td>
     <td align="right" valign="middle">
