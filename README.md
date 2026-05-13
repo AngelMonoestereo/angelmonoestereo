@@ -83,7 +83,7 @@ English (Fluent) · Spanish (Fluent)
 
 ### 🤝 Connect
 - LinkedIn: https://www.linkedin.com/in/angelmonoestereo/  
-- Portfolio: *(coming soon)*  
+- Portfolio: https://angel.monoestereo.dev/
 - Contact: **angelreyes@yahoo.com**
 
 
